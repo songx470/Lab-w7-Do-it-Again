@@ -11,4 +11,4 @@ page transition animation
 
 more organized codes
 
-corrected misuse of tags
+corrected tags
