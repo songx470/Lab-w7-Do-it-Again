@@ -9,4 +9,6 @@ user interaction
 
 page transition animation
 
-coding cleaness
+more organized codes
+
+corrected misuse of tags
