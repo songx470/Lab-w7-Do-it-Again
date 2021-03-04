@@ -8,3 +8,5 @@ flex layout
 user interaction
 
 page transition animation
+
+coding cleaness
